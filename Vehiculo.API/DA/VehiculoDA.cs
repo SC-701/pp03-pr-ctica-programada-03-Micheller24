@@ -30,7 +30,7 @@ namespace DA
                 IdModelo = vehiculo.IdModelo,
                 Placa = vehiculo.Placa,
                 Color = vehiculo.Color,
-                Año = vehiculo.Año,
+                Año = vehiculo.Anio,
                 Precio = vehiculo.Precio,
                 CorreoPropietario = vehiculo.CorreoPropietario,
                 TelefonoPropietario = vehiculo.TelefonoPropietario
@@ -49,7 +49,7 @@ namespace DA
                 IdModelo = vehiculo.IdModelo,
                 Placa = vehiculo.Placa,
                 Color = vehiculo.Color,
-                Año = vehiculo.Año,
+                Año = vehiculo.Anio,
                 Precio = vehiculo.Precio,
                 CorreoPropietario = vehiculo.CorreoPropietario,
                 TelefonoPropietario = vehiculo.TelefonoPropietario
